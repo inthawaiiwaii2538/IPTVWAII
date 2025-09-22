@@ -28,12 +28,24 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
 #EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="ทีวีดิจิตอล", TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
-#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="ทีวีดิจิตอล", ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
 #EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="ทีวีดิจิตอล", 5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="ทีวีดิจิตอล", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="ทีวีดิจิตอล", Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="ทีวีดิจิตอล", Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="ทีวีดิจิตอล", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="ทีวีดิจิตอล", ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title"ทีวีดิจิตอล", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
@@ -58,9 +70,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living (26).th" tvg-name="MVMall Living (26)" tvg-logo="https://media-mvtv.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="ทีวีดิจิตอล", MVMall Living (26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8
-#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="ทีวีดิจิตอล", TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 #EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family (40).th" tvg-name="MVMall Family (40)" tvg-logo="https://media-mvtv.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="ทีวีดิจิตอล", MVMall Family (40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8
@@ -70,18 +79,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี.th" tvg-name="ไทบ้านทีวี" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" group-title="ทีวีดิจิตอล", ไทบ้านทีวี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="ทีวีดิจิตอล", Nation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="ทีวีดิจิตอล", Workpoint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 #EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True24.th" tvg-name="True24" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png" group-title="ทีวีดิจิตอล", True24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
-#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="ทีวีดิจิตอล", GMM25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 #EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png" group-title="ทีวีดิจิตอล", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
@@ -181,4 +181,5 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="ทีวีดิจิตอล", IPTV-THAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
 
