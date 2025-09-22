@@ -6,17 +6,17 @@ http://bestcommt2.github.io/m3u8/monomax1.m3u8
 http://bestcommt2.github.io/m3u8/monomax2.m3u8
 #EXTINF:-1 tvg-WID="Monomax3" tvg-name="MN3 - Monomax3 UHD" tvg-logo="https://i.postimg.cc/05cb69s2/753.png" group-title="กีฬา",Monomax3
 http://bestcommt2.github.io/m3u8/monomax3.m3u8
-#EXTINF:-1 tvg-WID="Monomax4" tvg-name="MN4 - Monomax4 UHD" https://i.postimg.cc/BvpGhQNj/754.png" group-title="กีฬา",Monomax4
+#EXTINF:-1 tvg-WID="Monomax4" tvg-name="MN4 - Monomax4 UHD" tvg-logo="https://i.postimg.cc/BvpGhQNj/754.png" group-title="กีฬา",Monomax4
 http://bestcommt2.github.io/m3u8/monomax4.m3u8
-#EXTINF:-1 tvg-WID="Monomax5" tvg-name="MN5 - Monomax5 UHD" https://i.postimg.cc/BvFG0Bq1/755.png" group-title="กีฬา",Monomax5
+#EXTINF:-1 tvg-WID="Monomax5" tvg-name="MN5 - Monomax5 UHD" tvg-logo="https://i.postimg.cc/BvFG0Bq1/755.png" group-title="กีฬา",Monomax5
 http://bestcommt2.github.io/m3u8/monomax5.m3u8
-#EXTINF:-1 tvg-WID="Monomax6" tvg-name="MN6 - Monomax6 UHD" https://i.postimg.cc/Vk5Qp5hN/6.png" group-title="กีฬา",Monomax6
+#EXTINF:-1 tvg-WID="Monomax6" tvg-name="MN6 - Monomax6 UHD" tvg-logo="https://i.postimg.cc/Vk5Qp5hN/6.png" group-title="กีฬา",Monomax6
 http://bestcommt2.github.io/m3u8/monomax6.m3u8
-#EXTINF:-1 tvg-WID="Monomax7" tvg-name="MN7 - Monomax7 UHD" https://i.postimg.cc/Gpy03Vdw/7.png" group-title="กีฬา",Monomax7
+#EXTINF:-1 tvg-WID="Monomax7" tvg-name="MN7 - Monomax7 UHD" tvg-logo="https://i.postimg.cc/Gpy03Vdw/7.png" group-title="กีฬา",Monomax7
 http://bestcommt2.github.io/m3u8/monomax7.m3u8
-#EXTINF:-1 tvg-WID="Monomax8" tvg-name="MN8 - Monomax8 UHD" https://i.postimg.cc/5ypTkMqv/8.png" group-title="กีฬา",Monomax8
+#EXTINF:-1 tvg-WID="Monomax8" tvg-name="MN8 - Monomax8 UHD" tvg-logo="https://i.postimg.cc/5ypTkMqv/8.png" group-title="กีฬา",Monomax8
 http://bestcommt2.github.io/m3u8/monomax8.m3u8
-#EXTINF:-1 tvg-WID="Monomax9" tvg-name="MN9 - Monomax9 UHD" https://i.postimg.cc/jqhpjz05/9.png" group-title="กีฬา",Monomax9
+#EXTINF:-1 tvg-WID="Monomax9" tvg-name="MN9 - Monomax9 UHD" tvg-logo="https://i.postimg.cc/jqhpjz05/9.png" group-title="กีฬา",Monomax9
 http://bestcommt2.github.io/m3u8/monomax9.m3u8
 
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
@@ -6963,6 +6963,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060197
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060196
 #EXTINF:-1 tvg-id="" tvg-name="SG - BEIN SPORTS FHD" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" group-title="AS | SINGAPORE",SG - BEIN SPORTS FHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060198
+
 
 
 
