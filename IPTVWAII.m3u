@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-WID="Monomax1" tvg-name="MN1 - Monomax1 UHD" tvg-logo="https://ball67.com/assets/channels-logo/monomax-1.png" group-title="กีฬา",Monomax1
 http://bestcommt2.github.io/m3u8/monomax1.m3u8
-#EXTINF:-1 tvg-WID="Monomax2" tvg-name="MN2 - Monomax2 UHD" tvg-logo="https://i.postimg.cc/0ytfZTD8/75.png" group-title="กีฬา",Monomax2
+#EXTINF:-1 tvg-WID="Monomax2" tvg-name="MN2 - Monomax2 UHD" tvg-logo="https://i.postimg.cc/jSWw0mBq/752.png" group-title="กีฬา",Monomax2
 http://bestcommt2.github.io/m3u8/monomax2.m3u8
 #EXTINF:-1 tvg-WID="Monomax3" tvg-name="MN3 - Monomax3 UHD" tvg-logo="https://i.postimg.cc/05cb69s2/753.png" group-title="กีฬา",Monomax3
 http://bestcommt2.github.io/m3u8/monomax3.m3u8
@@ -6963,6 +6963,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060197
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060196
 #EXTINF:-1 tvg-id="" tvg-name="SG - BEIN SPORTS FHD" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" group-title="AS | SINGAPORE",SG - BEIN SPORTS FHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060198
+
 
 
 
