@@ -161,6 +161,9 @@ https://cdn-live.dltv.ac.th/dltv08.m3u8
 #EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV9.th" tvg-name="DLTV9" tvg-logo="https://media-mvtv.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="ทีวีดิจิตอล", DLTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV10.th" tvg-name="DLTV10" tvg-logo="https://media-mvtv.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="ทีวีดิจิตอล", DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8
 #EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV11.th" tvg-name="DLTV11" tvg-logo="https://media-mvtv.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="ทีวีดิจิตอล", DLTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv11.m3u8
@@ -185,5 +188,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 #EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="ทีวีดิจิตอล", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
 
 
