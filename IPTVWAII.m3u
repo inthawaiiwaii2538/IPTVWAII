@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Digital TV", NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -214,10 +214,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV-THAI.th" tvg-name="IPTV-THAI" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png" group-title="Digital TV", IPTV-THAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
-
-#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV15.th" tvg-name="DLTV15" tvg-logo="https://media-mvtv.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="Digital TV", DLTV15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="F1 - SKY SPORT F1 UHD" tvg-logo="https://go4.pw/UK/SKYF1.png" group-title="VIP | FORMULA 1",F1 - SKY SPORT F1 UHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/76642
@@ -6947,4 +6943,5 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060197
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060196
 #EXTINF:-1 tvg-id="" tvg-name="SG - BEIN SPORTS FHD" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" group-title="AS | SINGAPORE",SG - BEIN SPORTS FHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1060198
+
 
