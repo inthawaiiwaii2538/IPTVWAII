@@ -820,20 +820,28 @@ https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
 #EXTINF:-1 tvg-name="Sports4-B" tvg-logo="https://i.imgur.com/SodCznt.png" group-title="รวมกีฬา",Sports4-B
 https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="True Sports 4 🇹🇭" tvg-logo="https://i.imgur.com/SodCznt.png" group-title="กีฬา",True Sports 4
-https://www.vip.worldlivetv.stream/channel/TrueSports4_th
+#EXTINF:-1 tvg-name="NBA TV-A 🇺🇸" tvg-logo="https://i.imgur.com/mBHsjsJ.png" group-title="กีฬา",NBA TV-A
+https://fl5.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="3BB Sports1 🇹🇭" tvg-logo="https://i.imgur.com/5BGFX5i.png" group-title="กีฬา",3BB Sports1
-https://3bbtv.co.th/
+#EXTINF:-1 tvg-name="ESPNU 🇺🇸" tvg-logo="https://i.imgur.com/pRo2Hxa.png" group-title="กีฬา",ESPNU
+https://fl5.moveonjoy.com/ESPN_U/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sport Basket-A 🇮🇹" tvg-logo="https://cdn.imgchest.com/files/7kzcaw9vqg7.png" group-title="กีฬา",Sky Sport Basket-A
-https://sport.sky.it/
+#EXTINF:-1 tvg-name="ESPN2-A 🇺🇸" tvg-logo="https://i.imgur.com/kCFxK0o.png" group-title="กีฬา",ESPN2-A
+https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sport Basket-B 🇮🇹" tvg-logo="https://cdn.imgchest.com/files/7kzcaw9vqg7.png" group-title="กีฬา",Sky Sport Basket-B
-https://sport.sky.it/
+#EXTINF:-1 tvg-name="TSN2 🇨🇦" tvg-logo="https://i.imgur.com/HBKPAZc.png" group-title="กีฬา",TSN2
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV 🇺🇸" tvg-logo="https://i.imgur.com/mBHsjsJ.png" group-title="กีฬา",NBA TV
-https://tx2.nexgen.bz/NBA/index.m3u8
+#EXTINF:-1 tvg-name="TSN3 🇨🇦" tvg-logo="https://i.imgur.com/0oT9q4d.png" group-title="กีฬา",TSN3
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN4-A 🇨🇦" tvg-logo="https://i.imgur.com/vu9vD2u.png" group-title="กีฬา",TSN4-A
+https://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN5 🇨🇦" tvg-logo="https://i.imgur.com/aY3mX8z.png" group-title="กีฬา",TSN5
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+
 
 
 
