@@ -820,28 +820,44 @@ https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
 #EXTINF:-1 tvg-name="Sports4-B" tvg-logo="https://i.imgur.com/SodCznt.png" group-title="รวมกีฬา",Sports4-B
 https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NBA TV-A 🇺🇸" tvg-logo="https://i.imgur.com/mBHsjsJ.png" group-title="กีฬา",NBA TV-A
+#EXTINF:-1 tvg-name="NBA TV-A 🇺🇸" tvg-logo="https://i.imgur.com/mBHsjsJ.png" group-title="รวมกีฬา",NBA TV-A
 https://fl5.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPNU 🇺🇸" tvg-logo="https://i.imgur.com/pRo2Hxa.png" group-title="กีฬา",ESPNU
+#EXTINF:-1 tvg-name="ESPN U 🇺🇸" tvg-logo="https://i.imgur.com/pRo2Hxa.png" group-title="รวมกีฬา",ESPNU
 https://fl5.moveonjoy.com/ESPN_U/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN2-A 🇺🇸" tvg-logo="https://i.imgur.com/kCFxK0o.png" group-title="กีฬา",ESPN2-A
+#EXTINF:-1 tvg-name="ESPN 2-A 🇺🇸" tvg-logo="https://i.imgur.com/kCFxK0o.png" group-title="รวมกีฬา",ESPN2-A
 https://fl5.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN2 🇨🇦" tvg-logo="https://i.imgur.com/HBKPAZc.png" group-title="กีฬา",TSN2
+#EXTINF:-1 tvg-name="TSN2 🇨🇦" tvg-logo="https://i.imgur.com/HBKPAZc.png" group-title="รวมกีฬา",TSN2
 https://fl5.moveonjoy.com/TSN_2/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN3 🇨🇦" tvg-logo="https://i.imgur.com/0oT9q4d.png" group-title="กีฬา",TSN3
+#EXTINF:-1 tvg-name="TSN3 🇨🇦" tvg-logo="https://i.imgur.com/0oT9q4d.png" group-title="รวมกีฬา",TSN3
 https://fl5.moveonjoy.com/TSN_3/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN4-A 🇨🇦" tvg-logo="https://i.imgur.com/vu9vD2u.png" group-title="กีฬา",TSN4-A
+#EXTINF:-1 tvg-name="TSN4-A 🇨🇦" tvg-logo="https://i.imgur.com/vu9vD2u.png" group-title="รวมกีฬา",TSN4-A
 https://fl5.moveonjoy.com/TSN_4/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN5 🇨🇦" tvg-logo="https://i.imgur.com/aY3mX8z.png" group-title="กีฬา",TSN5
+#EXTINF:-1 tvg-name="TSN5 🇨🇦" tvg-logo="https://i.imgur.com/aY3mX8z.png" group-title="รวมกีฬา",TSN5
 https://fl5.moveonjoy.com/TSN_5/index.m3u8
 
+#EXTINF:-1 tvg-name="TNT SportS 1-A 🇬🇧" tvg-logo="https://i.imgur.com/yWpVmaa.png" group-title="รวมกีฬา",TNT SportS 1-A
+https://cdnsv1.bunnycdncloud.com/andaman888th/btsport1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TNT SportS 2-A 🇬🇧" tvg-logo="https://i.imgur.com/RDE3VDw.png" group-title="รวมกีฬา",TNT SportS 2-A
+https://cdnsv1.bunnycdncloud.com/andaman888th/btsport2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT SportS 3-A 🇬🇧" tvg-logo="https://i.imgur.com/9VK2HPT.png" group-title="รวมกีฬา",TNT SportS 3-A
+https://cdnsv1.bunnycdncloud.com/andaman888th/btsport3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV1 🇵🇹" tvg-logo="https://i.imgur.com/Zjwyqr1.png" group-title="รวมกีฬา",SPORT TV1
+https://cdn1.googlecdnforstreaming.live/live/sporttv1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV2 🇵🇹" tvg-logo="https://i.imgur.com/pL6eLgV.png" group-title="รวมกีฬา",SPORT TV2
+https://cdn1.googlecdnforstreaming.live/live/sporttv2/chunks.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV3 🇵🇹" tvg-logo="https://i.imgur.com/TeVTCFk.png" group-title="รวมกีฬา",SPORT TV3
+https://cdn1.googlecdnforstreaming.live/live/sporttv3/chunks.m3u8
 
 
 
