@@ -760,5 +760,65 @@ https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax8.m3u8
 #EXTINF:-1 tvg-WID="Monomax9" tvg-name="Monomax9 UHD" tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="รวมกีฬา",Monomax9
 https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax9.m3u8
 
+#EXTINF:-1 tvg-name="beIN Sports1-A" tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="รวมกีฬา",beIN Sports1-A
+https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports1-B" tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="รวมกีฬา",beIN Sports1-B
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/th-sport/bein1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports1-C" tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="รวมกีฬา",beIN Sports1-C
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports1-E" tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="รวมกีฬา",beIN Sports1-E
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports2-B" tvg-logo="https://i.imgur.com/Qz0dlG5.png" group-title="รวมกีฬา",beIN Sports2-B
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein2/th-sport/bein2/chunks.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports2-C" tvg-logo="https://i.imgur.com/Qz0dlG5.png" group-title="รวมกีฬา",beIN Sports2-C
+https://fw4free.inwstream.com/fw4free/bein2.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports3-A" tvg-logo="https://i.imgur.com/YprJFA2.png" group-title="รวมกีฬา",beIN Sports3-A
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein3/th-sport/bein3/chunks.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports3-B" tvg-logo="https://i.imgur.com/YprJFA2.png" group-title="รวมกีฬา",beIN Sports3-B
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/chunks.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports3-D" tvg-logo="https://i.imgur.com/YprJFA2.png" group-title="รวมกีฬา",beIN Sports3-D
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sports1-B" tvg-logo="https://i.imgur.com/9djKf5y.png" group-title="รวมกีฬา",Sports1-B
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sports1-C" tvg-logo="https://i.imgur.com/9djKf5y.png" group-title="รวมกีฬา",Sports1-C
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sports1-E" tvg-logo="https://i.imgur.com/9djKf5y.png" group-title="รวมกีฬา",Sports1-E
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports2-B" tvg-logo="https://i.imgur.com/d0P89YT.png" group-title="รวมกีฬา",Sports2-B
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sports2-C" tvg-logo="https://i.imgur.com/d0P89YT.png" group-title="รวมกีฬา",Sports2-C
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports2-E" tvg-logo="https://i.imgur.com/d0P89YT.png" group-title="รวมกีฬา",Sports2-E
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sports3-B" tvg-logo="https://i.imgur.com/Skd29dj.png" group-title="รวมกีฬา",Sports3-B
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sports3-D" tvg-logo="https://i.imgur.com/Skd29dj.png" group-title="รวมกีฬา",Sports3-D
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sports3-E" tvg-logo="https://i.imgur.com/Skd29dj.png" group-title="รวมกีฬา",Sports3-E
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports4-A" tvg-logo="https://i.imgur.com/SodCznt.png" group-title="รวมกีฬา",Sports4-A
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sports4-B" tvg-logo="https://i.imgur.com/SodCznt.png" group-title="รวมกีฬา",Sports4-B
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/playlist.m3u8
+
 
 
