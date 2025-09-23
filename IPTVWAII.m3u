@@ -724,8 +724,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 htt
 
 
-#EXTM3U
-
 #EXTINF:-1 tvg-WID="Monomax1" tvg-name="Monomax1 UHD" tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="รวมกีฬา",Monomax1
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 
@@ -761,5 +759,6 @@ https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax8.m3u8
 
 #EXTINF:-1 tvg-WID="Monomax9" tvg-name="Monomax9 UHD" tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="รวมกีฬา",Monomax9
 https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax9.m3u8
+
 
 
