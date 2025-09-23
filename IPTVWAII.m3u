@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-WID="Monomax1" tvg-name="MN1 - Monomax1 UHD" tvg-logo="https://ball67.com/assets/channels-logo/monomax-1.png" group-title="กีฬา",Monomax1
 http://bestcommt2.github.io/m3u8/monomax1.m3u8
 
@@ -721,8 +723,251 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 htt
 
-
-
-
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",Monomax 1
+https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",Monomax 1
+https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",Monomax 2
+https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax2.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",Monomax 3
+https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax3.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",Monomax 3
+https://cdn1.googlecdnforstreaming.live/live/ais-monomax-3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",Monomax 4
+https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=608&tv=Monomax4âÁâ¹áÁ¡«ì4
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="Sport Word 2025",MONOMAX 5
+https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax5.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8aaF0dL.png" group-title="Sport Word 2025",Astro Premier1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dR0DfvN.png" group-title="Sport Word 2025",Astro Premier2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJczzFE.png" group-title="Sport Word 2025",Astro Football
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/arDXxug.png" group-title="Sport Word 2025",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkDFZW5.png" group-title="Sport Word 2025",Sky Sports Epl
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175180&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="Sport Word 2025",FWSport
+https://www.inwiptv.com/player_demo.php?channel=89782
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="Sport Word 2025",beIN Sports1-B????
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/th-sport/bein1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HIcVnMV.png" group-title="Sport Word 2025",beIN Sports1-D????
+https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=44&tv=ºÕÍÔ¹Ê»ÍµÊì1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qz0dlG5.png" group-title="Sport Word 2025",beIN Sports1-F????
+https://www.ball24.tv/allchannel/?id=bein1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qz0dlG5.png" group-title="Sport Word 2025",beIN Sports2-B????
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein2/th-sport/bein2/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YprJFA2.png" group-title="Sport Word 2025",beIN Sports3-A????
+https://cdnsv1.bunnycdncloud.com/andaman888th/bein3/th-sport/bein3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YprJFA2.png" group-title="Sport Word 2025",beIN Sports3-C????
+https://www.ball24.tv/allchannel/?id=bein3
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9djKf5y.png" group-title="Sport Word 2025",Sports1-A🇹🇭
+https://dookeela2.live/live-tv/tsp1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9djKf5y.png" group-title="Sport Word 2025",Sports1-C🇹🇭
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9djKf5y.png" group-title="Sport Word 2025",Sports1-E🇹🇭
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0P89YT.png" group-title="Sport Word 2025",Sports2-A🇹🇭
+https://dookeela2.live/live-tv/tsp2
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0P89YT.png" group-title="Sport Word 2025",Sports2-C🇹🇭
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0P89YT.png" group-title="Sport Word 2025",Sports2-E🇹🇭
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skd29dj.png" group-title="Sport Word 2025",Sports3-A🇹🇭
+https://dookeela2.live/live-tv/tsp3
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skd29dj.png" group-title="Sport Word 2025",Sports3-C🇹🇭
+https://www.ball24.tv/allchannel/?id=truesporthd3
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skd29dj.png" group-title="Sport Word 2025",Sports3-E🇹🇭
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SodCznt.png" group-title="Sport Word 2025",Sports4-A🇹🇭
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SodCznt.png" group-title="Sport Word 2025",Sports4-C🇹🇭
+https://ball67.com/channels/truesports4
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5BGFX5i.png" group-title="Sport Word 2025",3BB Sports1
+https://goal-th.com/ช่องรายการทีวี/?id=419&tv=SportsOne
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/7kzcaw9vqg7.png" group-title="Sport Word 2025",Sky Sport Basket-A🇮🇹
+http://exm3u.extraott.com:80/ZUL96376/UG4VTW4E/194223
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBHsjsJ.png" group-title="Sport Word 2025",NBA TV-A🇺🇸
+https://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLnOtrJ.png" group-title="Sport Word 2025",NBA TV-C🇺🇸
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186540&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLnOtrJ.png" group-title="Sport Word 2025",NBA TV
+https://goal-th.com/ช่องรายการทีวี/?id=61&tv=NBATV
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWdzzQZ.png" group-title="Sport Word 2025",ESPNU🇺🇸
+https://fl5.moveonjoy.com/ESPN_U/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCFxK0o.png" group-title="Sport Word 2025",ESPN1-B🇺🇸
+http://fortv.cc:8080/PyRR3Hy/DthK0fv/14197
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTSQ5TQ.png" group-title="Sport Word 2025",ESPN2-B🇺🇸
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=133964&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oT9q4d.png" group-title="Sport Word 2025",TSN2🇨🇦
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aY3mX8z.png" group-title="Sport Word 2025",TSN4-A🇨🇦
+https://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7W56S6.png" group-title="Sport Word 2025",Arena Sport1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536698&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGEXfLb.png" group-title="Sport Word 2025",Arena Sport3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536700&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWpVmaa.png" group-title="Sport Word 2025",TNT SportS 1-A🇬🇧
+https://cdnsv1.bunnycdncloud.com/andaman888th/btsport1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDE3VDw.png" group-title="Sport Word 2025",TNT SportS 2-A🇬🇧
+https://cdnsv1.bunnycdncloud.com/andaman888th/btsport2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VK2HPT.png" group-title="Sport Word 2025",TNT SportS 3-A🇬🇧
+https://cdnsv1.bunnycdncloud.com/andaman888th/btsport3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zSD1Cg.png" group-title="Sport Word 2025",TNT SportS4-A🇬🇧
+https://dookeela2.live/live-tv/btsport4
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pL6eLgV.png" group-title="Sport Word 2025",SPORT TV1🇵🇹
+https://cdn1.googlecdnforstreaming.live/live/sporttv1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUWFbsR.png" group-title="Sport Word 2025",SPORT TV3🇵🇹
+https://cdn1.googlecdnforstreaming.live/live/sporttv3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4Oolgn.png" group-title="Sport Word 2025",SPORT TV5🇵🇹
+https://cdn1.googlecdnforstreaming.live/live/sporttv5/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4Oolgn.png" group-title="Sport Word 2025",Fox Sports 1-B🇺🇸
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkU7DBG.png" group-title="Sport Word 2025",Fox Sports 1-D🇺🇸
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkU7DBG.png" group-title="Sport Word 2025",Fox Sports 2-B🇺🇸
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134046&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rs2TtG.png" group-title="Sport Word 2025",Astro Grandstand-A🇲🇾
+https://goal-th.com/ช่องรายการทีวี/?id=535&tv=AstroGrandstand
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9KbCbJ.png" group-title="Sport Word 2025",Astro SportsPlus-A🇲🇾
+https://goal-th.com/ช่องรายการทีวี/?id=539&tv=AstroSportsPlus
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scQstjq.png" group-title="Sport Word 2025",CBS Sports🇺🇸
+https://cdn1.googlecdnforstreaming.live/live/cbssports/chunks.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JFKtFi.png" group-title="Sport Word 2025",ACCN ESPN
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVEenIN.png" group-title="Sport Word 2025",Pac12Insider
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5BGFX5i.png" group-title="Sport Word 2025",SportsTVPlus
+https://www.distro.tv/live/sportstvplus/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxyDOgq.png" group-title="Sport Word 2025",3BB Sports1
+https://dookeela2.live/live-tv/3bbsports1
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/yrgcnabv2a4.png" group-title="Sport Word 2025",Extreme
+http://exm3u.extraott.com:80/ZUL96376/UG4VTW4E/401508687
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/yd5ceg9jkw4.png" group-title="Sport Word 2025",FuelTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bd6IF0Y.png" group-title="Sport Word 2025",GoProTV
+https://watch.freelivesports.tv/pages/discover/e/live-tv?channel=67ad38735451dfa36d3d3d1a
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VyRxzfw.png" group-title="Sport Word 2025",SportOutdoor.tv
+https://jmp2.uk/sam-ITBA3300022EA.m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iEeeud5.png" group-title="Sport Word 2025",World of Freesports
+https://watch.freelivesports.tv/pages/discover/e/live-tv?channel=6675bbd47620a64769e3aaa7
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPRmrUk.png" group-title="Sport Word 2025",Adventure Sports 
+https://www.distro.tv/live/adventure-sports-tv/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvsAAoc.png" group-title="Sport Word 2025",Slopes
+https://www.distro.tv/live/ski-tv/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qAjJtSr.png" group-title="Sport Word 2025",HorizonSports
+https://www.distro.tv/live/horizon-sports/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BfmPM8q.png" group-title="Sport Word 2025",Surfer
+https://www.cxtvlive.com/live-tv/surfer
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499966.png" group-title="Sport Word 2025",TSP HD1
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="Sport Word 2025",TSP HD3
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664847921.png" group-title="Sport Word 2025",TSP SD5
+https://dolive.thaim3u.com/xstream/siamsport-11/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVLoTk3.png" group-title="Sport Word 2025",TSPORTS7
+https://dookeela.live/live-tv/tsports7
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664532126.png" group-title="Sport Word 2025",NBA TV
+https://dookeela.live/live-tv/nba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg" group-title="Sport Word 2025",SPOTV1
+https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Sport Word 2025",BEIN 1
+https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg" group-title="Sport Word 2025",BEIN 2
+https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/wwe2.png" group-title="Sport Word 2025",BEIN 3
+https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/obesportsplus.png" group-title="Sport Word 2025",One Sports🇵🇭
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=297658&extension=m3u8
+#EXTVLCOPT:http-user-agent=http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.imgbiz.com/imgbiz/daza2doo.png" group-title="Sport Word 2025",DAZN 1-E🇩🇪
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374410&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.imgbiz.com/imgbiz/Channel_5.png" group-title="Sport Word 2025",DAZN 2-E🇩🇪
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374411&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://img2.imgbiz.com/imgbiz/SPORTTV1.png" group-title="Sport Word 2025",Channel 5-B🇬🇧
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175271&extension=ts
+#EXTVLCOPT:http-user-agent=http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png" group-title="Sport Word 2025",SPORT TV1-D🇵🇹
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78797&extension=ts&play_token=A3Tfx3gZck
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 
 
