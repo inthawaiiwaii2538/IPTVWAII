@@ -36,6 +36,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 
 ##CHGMM25##
 #EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="ช่องทีวีดิจิตอลTH" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png", GMM25
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
 
 ##Amarin34HD##
 #EXTINF:-1 tvg-id="Amarin34HD.th" group-title="ช่องทีวีดิจิตอลTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png", Amarin TV
@@ -852,6 +853,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension
 
 #EXTINF:-1 tvg-name="Sky Sport Golf FHD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="รวมกีฬา",Sky Sport Golf FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8
+
 
 
 
