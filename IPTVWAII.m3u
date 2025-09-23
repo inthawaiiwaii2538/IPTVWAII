@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="General",CH7 HD (1080p)
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT2 HD
-http://183.89.246.119:8010/play/a00l/index.m3u8
+https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg",THAI PBS HD
 https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/MCbCSWv.png",ALTV
@@ -1909,6 +1909,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension
 
 #EXTINF:-1 tvg-name="Sky Sport Golf FHD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="รวมกีฬา",Sky Sport Golf FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8
+
 
 
 
