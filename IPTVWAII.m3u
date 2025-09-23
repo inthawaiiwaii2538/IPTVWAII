@@ -821,4 +821,20 @@ https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8
 https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="True Sports 4 🇹🇭" tvg-logo="https://i.imgur.com/SodCznt.png" group-title="กีฬา",True Sports 4
+https://www.vip.worldlivetv.stream/channel/TrueSports4_th
+
+#EXTINF:-1 tvg-name="3BB Sports1 🇹🇭" tvg-logo="https://i.imgur.com/5BGFX5i.png" group-title="กีฬา",3BB Sports1
+https://3bbtv.co.th/
+
+#EXTINF:-1 tvg-name="Sky Sport Basket-A 🇮🇹" tvg-logo="https://cdn.imgchest.com/files/7kzcaw9vqg7.png" group-title="กีฬา",Sky Sport Basket-A
+https://sport.sky.it/
+
+#EXTINF:-1 tvg-name="Sky Sport Basket-B 🇮🇹" tvg-logo="https://cdn.imgchest.com/files/7kzcaw9vqg7.png" group-title="กีฬา",Sky Sport Basket-B
+https://sport.sky.it/
+
+#EXTINF:-1 tvg-name="NBA TV 🇺🇸" tvg-logo="https://i.imgur.com/mBHsjsJ.png" group-title="กีฬา",NBA TV
+https://tx2.nexgen.bz/NBA/index.m3u8
+
+
 
