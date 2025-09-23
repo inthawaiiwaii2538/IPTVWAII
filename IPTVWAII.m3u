@@ -1,34 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-WID="Monomax1" tvg-name="MN1 - Monomax1 UHD" tvg-logo="https://ball67.com/assets/channels-logo/monomax-1.png" group-title="กีฬา",Monomax1
-http://bestcommt2.github.io/m3u8/monomax1.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax2" tvg-name="MN2 - Monomax2 UHD"tvg-logo="https://i.postimg.cc/jSWw0mBq/752.png" group-title="กีฬา",Monomax2
-http://bestcommt2.github.io/m3u8/monomax2.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax3"tvg-name="MN3 - Monomax3 UHD"tvg-logo="https://i.postimg.cc/05cb69s2/753.png" group-title="กีฬา",Monomax3
-http://bestcommt2.github.io/m3u8/monomax3.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax4" tvg-name="MN4 - Monomax4 UHD"tvg-logo="https://i.postimg.cc/BvpGhQNj/754.png" group-title="กีฬา",Monomax4
-http://bestcommt2.github.io/m3u8/monomax4.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax5"tvg-name="MN5 - Monomax5 UHD" tvg-logo="https://i.postimg.cc/BvFG0Bq1/755.png" group-title="กีฬา",Monomax5
-http://bestcommt2.github.io/m3u8/monomax5.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax6"tvg-name="MN6 - Monomax6 UHD" tvg-logo="https://i.postimg.cc/Vk5Qp5hN/6.png" group-title="กีฬา",Monomax6
-http://bestcommt2.github.io/m3u8/monomax6.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax7"tvg-name="MN7 - Monomax7 UHD"tvg-logo="https://i.postimg.cc/Gpy03Vdw/7.png" group-title="กีฬา",Monomax7
-http://bestcommt2.github.io/m3u8/monomax7.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax8" tvg-name="MN8 - Monomax8 UHD" tvg-logo="https://i.postimg.cc/5ypTkMqv/8.png"group-title="กีฬา",Monomax8
-http://bestcommt2.github.io/m3u8/monomax8.m3u8
-
-#EXTINF:-1 tvg-WID="Monomax9" tvg-name="MN9 - Monomax9 UHD"tvg-logo="https://i.postimg.cc/jqhpjz05/9.png" group-title="กีฬา",Monomax9
-http://bestcommt2.github.io/m3u8/monomax9.m3u8
-#EXTM3U
-
 #EXTINF:-1 tvg-id="Channel3.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 
@@ -1102,4 +1073,5 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension
 
 #EXTINF:-1 tvg-name="Sky Sport Golf FHD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="รวมกีฬา",Sky Sport Golf FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8
+
 
