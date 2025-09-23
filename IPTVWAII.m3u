@@ -37,7 +37,7 @@ https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yNjgyNmU1MDUwNzRjZjhjNzg0ZgNThlN2I
 
 ##Amarin34HD##
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV HD" group-title="ช่องทีวีดิจิตอลTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png", Amarin TV
-https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yMDhhM2Q3NDFmMjM3NmQ2NmYzZgM2IxNjc3MTdlYzhkMTJj
+https://dkl-o53d.cdn.akamaiz.com/dookeela/amarintv/chunks.m3u8?nimblesessionid=61888096&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI1LCAxOjUyOjQzIFBNJmhhc2hfdmFsdWU9NFpFZmdVUWlGM2RTVXRsV2NEM0wwQT09JnZhbGlkbWludXRlcz0xJmlkPTU0YzJjOTg2YjE5YjQ1N2ZjYmFkN2VhNmY5MGNhYWZhJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==
 
 ##ThaiPBS3##
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="Thai PBS" group-title="ช่องทีวีดิจิตอลTH" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
@@ -439,6 +439,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension
 
 #EXTINF:-1 tvg-name="Sky Sport Golf FHD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="รวมกีฬา",Sky Sport Golf FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8
+
 
 
 
