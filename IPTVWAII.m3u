@@ -695,6 +695,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 htt
 
 
+
+### รวมกีฬา ###
+
+
 #EXTINF:-1 tvg-WID="Monomax1" tvg-name="Monomax1 UHD" tvg-logo="https://img2.pic.in.th/pic/mononmax-Sport.jpg" group-title="รวมกีฬา",Monomax1
 https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
 
@@ -1073,5 +1077,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension
 
 #EXTINF:-1 tvg-name="Sky Sport Golf FHD" tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png" group-title="รวมกีฬา",Sky Sport Golf FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8
+
 
 
