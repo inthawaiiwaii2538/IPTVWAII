@@ -859,6 +859,103 @@ https://cdn1.googlecdnforstreaming.live/live/sporttv2/chunks.m3u8
 #EXTINF:-1 tvg-name="SPORT TV3 🇵🇹" tvg-logo="https://i.imgur.com/TeVTCFk.png" group-title="รวมกีฬา",SPORT TV3
 https://cdn1.googlecdnforstreaming.live/live/sporttv3/chunks.m3u8
 
+#EXTINF:-1 tvg-name="SPORT TV4 🇵🇹" tvg-logo="https://i.imgur.com/rUWFbsR.png" group-title="รวมกีฬา",SPORT TV4
+https://cdn1.googlecdnforstreaming.live/live/sporttv4/chunks.m3u8
+
+#EXTINF:-1 tvg-name="SPORT TV5 🇵🇹" tvg-logo="https://i.imgur.com/YNdA8vj.png" group-title="รวมกีฬา",SPORT TV5
+https://cdn1.googlecdnforstreaming.live/live/sporttv5/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 1-A 🇺🇸" tvg-logo="https://i.imgur.com/Q4Oolgn.png" group-title="รวมกีฬา",Fox Sports 1-A
+https://cdn1.googlecdnforstreaming.live/live/foxsports1usa/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 1-B 🇺🇸" tvg-logo="https://i.imgur.com/Q4Oolgn.png" group-title="รวมกีฬา",Fox Sports 1-B
+https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 1-D 🇺🇸" tvg-logo="https://i.imgur.com/Q4Oolgn.png" group-title="รวมกีฬา",Fox Sports 1-D
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports 2-A 🇺🇸" tvg-logo="https://i.imgur.com/nkU7DBG.png" group-title="รวมกีฬา",Fox Sports 2-A
+https://cdn1.googlecdnforstreaming.live/live/foxsports2usa/chunks.m3u8
 
 
+#EXTINF:-1 tvg-name="Fox Sports 2-C 🇺🇸" tvg-logo="https://i.imgur.com/nkU7DBG.png" group-title="รวมกีฬา",Fox Sports 2-C
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports 🇺🇸" tvg-logo="https://i.imgur.com/0RQXCJQ.png" group-title="รวมกีฬา",CBS Sports
+https://cdn1.googlecdnforstreaming.live/live/cbssports/chunks.m3u8
+
+#EXTINF:-1 tvg-name="BIG Network 🇺🇸" tvg-logo="https://i.imgur.com/scQstjq.png" group-title="รวมกีฬา",BIG Network
+https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="ACCN ESPN" tvg-logo="https://i.imgur.com/pSFV3Ci.png" group-title="รวมกีฬา",ACCN ESPN
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://i.imgur.com/0JFKtFi.png" group-title="รวมกีฬา",Yes Network
+https://fl4.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Pac12Insider" tvg-logo="https://i.imgur.com/ldf74jZ.png" group-title="รวมกีฬา",Pac12Insider
+https://pac12-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unbeaten Sports" tvg-logo="https://i.imgur.com/wVEenIN.png" group-title="รวมกีฬา",Unbeaten Sports
+https://jmp2.uk/sam-US1400008DW.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull" tvg-logo="https://i.imgur.com/OxyDOgq.png" group-title="รวมกีฬา",Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-name="Xtrem Sports" tvg-logo="https://cdn.imgchest.com/files/yrgcnabv2a4.png" group-title="รวมกีฬา",Xtrem Sports
+https://streams.sofast.tv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 tvg-name="FuelTV" tvg-logo="https://i.imgur.com/EdqUEbZ.png" group-title="รวมกีฬา",FuelTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AbsintheTV" tvg-logo="https://cdn.imgchest.com/files/yd5ceg9jkw4.png" group-title="รวมกีฬา",AbsintheTV
+https://streams.sofast.tv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8
+
+#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/zOFc1eT.png" group-title="รวมกีฬา",SportOutdoor.tv
+https://jmp2.uk/sam-ITBA3300022EA.m3u8
+
+#EXTINF:-1 tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/VyRxzfw.png" group-title="รวมกีฬา",People Are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Adventure Zone" tvg-logo="https://i.imgur.com/iEeeud5.png" group-title="รวมกีฬา",Adventure Zone
+https://adventurezonelive.b-cdn.net/streams/adventure-zone-global/rendition2.m3u8
+
+#EXTINF:-1 tvg-name="Nautical" tvg-logo="https://i.imgur.com/qAjJtSr.png" group-title="รวมกีฬา",Nautical
+https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index_4.m3u8
+
+#EXTINF:-1 tvg-name="Outside TV" tvg-logo="https://i.imgur.com/BfmPM8q.png" group-title="รวมกีฬา",Outside TV
+https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TrueSport 1" tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg" group-title="รวมกีฬา",TrueSport 1
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TrueSport 2" tvg-logo="https://dookeela.live/uploads/1664499966.png" group-title="รวมกีฬา",TrueSport 2
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TSP HD2" tvg-logo="https://dookeela.live/uploads/1664499966.png" group-title="รวมกีฬา",TSP HD2
+https://dookeela.live/live-tv/tsp2
+
+#EXTINF:-1 tvg-name="TrueSport 3" tvg-logo="https://dookeela.live/uploads/1664802480.png" group-title="รวมกีฬา",TrueSport 3
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TSP HD3" tvg-logo="https://dookeela.live/uploads/1664802480.png" group-title="รวมกีฬา",TSP HD3
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TrueSport 3" tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport3.jpg" group-title="รวมกีฬา",TrueSport 3
+https://dookeela.live/live-tv/tsp3#
+
+#EXTINF:-1 tvg-name="TSP HD4" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="รวมกีฬา",TSP HD4
+https://dookeela.live/live-tv/tsp4
+
+#EXTINF:-1 tvg-name="TrueSport 3" tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport3.jpg" group-title="รวมกีฬา",TrueSport 3
+https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/v1/index.m3u8
+
+#EXTINF:-1 tvg-name="TrueSport HD4" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="รวมกีฬา",TrueSport HD4
+https://dookeela.live/live-tv/tsp4#
+
+#EXTINF:-1 tvg-name="TSP SD5" tvg-logo="https://dookeela.live/uploads/1664847910.png" group-title="รวมกีฬา",TSP SD5
+https://dolive.thaim3u.com/xstream/siamsport-11/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TrueSport 5" tvg-logo="https://dookeela.live/uploads/1664847910.png" group-title="รวมกีฬา",TrueSport 5
+https://live.vip-streaming.com/ufabetcompany-live/true-sport-5/chunks.m3u8
 
