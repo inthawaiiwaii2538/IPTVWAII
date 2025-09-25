@@ -1,0 +1,10 @@
+{
+"name": "IPTV",
+"author": "inthawaiiwaii2538",
+"image": "https://play-lh.googleusercontent.com/qVBLymJyAWhGFYUKlGS3pvXmKrLRu3D19YnJSumDcYLypXWvKoZ9qceaKJhJwXd3J9A", 
+"info": "สำหรับครอบครัว",
+"url": "https://raw.githubusercontent.com/inthawaiiwaii2538/IPTVWAII/refs/heads/main/IPTVWAII.m3u",
+"type": "m3u",
+"playInNatPlayer": "false",
+"stations": []
+}
