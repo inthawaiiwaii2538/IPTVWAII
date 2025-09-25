@@ -56,8 +56,8 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 #EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",TRUE4U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#EXTINF:-1 tvg-id="News1.th" group-title="ช่องทีวีดิจิตอล" tvg-logo="https://i.ytimg.com/vi/qcABFJOvP88/maxresdefault.jpg", News 1
-https://server1.streamssl.com/stream/news1.m3u8
+#EXTINF:-1 group-title="ช่องทีวีดิจิตอล" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="ช่องทีวีดิจิตอล" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
