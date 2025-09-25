@@ -1625,6 +1625,29 @@ https://wahyu1ptv.pages.dev/UFCFightPass-HD.m3u8
 https://wahyu1ptv.pages.dev/NBATV-HD.m3u8
 
 
+มวยปล้ำ
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่อง มวยปล้ำ",WWE
+#EXTVLCOPT:http-referrer=GitHub
+https://github.com/BONDdata/m3u8/raw/refs/heads/main/WWE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE-HD" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่อง มวยปล้ำ",WWE-HD
+#EXTVLCOPT:http-referrer=GitHub
+https://github.com/BONDdata/m3u8/raw/refs/heads/main/WWEHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE-สำรอง1" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่อง มวยปล้ำ",WWE-สำรอง1
+http://212.102.60.231/WWE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star wwe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuiAOQPEBcwPluI_-n2Gi42t6se1P54qUmuQ&s" group-title="ช่อง มวยปล้ำ",Star wwe
+#EXTVLCOPT:http-referrer=tbtv.me
+https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/star-wwe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMPACT WRESTLING" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="ช่อง มวยปล้ำ",IMPACT WRESTLING
+#EXTVLCOPT:http-referrer=PlutoTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="WOW Women of Wrestling" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71j6phEubAHItgQeekMYhylowQZNsBjQOF_fSwOKY7AnCQLihHhr5bJk&s=10" group-title="ช่อง มวยปล้ำ",WOW Women of Wrestling
+#EXTVLCOPT:http-referrer=PlutoTV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b66b9e14a2bb000872f606/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+
+
+
 ########################################
 		หนังใหม่-2025
 ########################################
@@ -1873,4 +1896,5 @@ https://main.24playerhd.com/newplaylist/e75df0cff84e972e89a6e50d/e75df0cff84e972
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-187x269.png",Back in Action (2025) สายลับกลับมาลุย
 https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f.m3u8
 https://vod1.stream25.com/Jazz-The-Racing-2025-TH.mp4.ts?start=7041.666&end=7052.083https://vod1.stream25.com/Jazz-The-Racing-2025-TH.mp4.ts?start=7041.666&end=7052.083
+
 
