@@ -2,10 +2,6 @@
 
 ช่องทีวีดิจตอล
 
-#EXTINF:-1 tvg-id="CH3HD" tvg-name="ช่อง 3 HD" group-title="Thai TV",Channel 3 HD
-#EXTVLCOPT:http-referrer=https://dookeela2.live/
-https://dookeela2.live/live-tv/ch3hd
-
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="ช่อง 5 HD" group-title="ช่องทีวีดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
@@ -1900,6 +1896,7 @@ https://main.24playerhd.com/newplaylist/e75df0cff84e972e89a6e50d/e75df0cff84e972
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-187x269.png",Back in Action (2025) สายลับกลับมาลุย
 https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f.m3u8
 https://vod1.stream25.com/Jazz-The-Racing-2025-TH.mp4.ts?start=7041.666&end=7052.083https://vod1.stream25.com/Jazz-The-Racing-2025-TH.mp4.ts?start=7041.666&end=7052.083
+
 
 
 
