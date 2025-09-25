@@ -409,9 +409,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="รายการช่องช้อปปิ้ง" tvg-logo="https://i.postimg.cc/yNGpSRZ0/IMG-3181.png", MVMall Living
 https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8
-
 ช่องบันเทิง
-
 #EXTINF:-1 group-title="ช่องบันเทิง" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png",VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 
@@ -480,10 +478,7 @@ https://e102.hellotherepadawan.org/v5/0RIQnq5Htx2zn0NTWELuXA/1756836224/92e6f341
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
 https://e109.hellotherepadawan.org/v5/BIMWq3YkONcTBqXnUiXmXw/1756836429/92e6f341c728a6e9b2f28b85333fae8d/gpzy0LattedyHmCQz7uNFg/1756847109/live/dx-origin/sd-series_720/chunks.m3u8
-
-
 ช่องกีฬาไทย
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.img07.xyz/assets/img/ch_logo/PL_Mono1.jpg" group-title="ช่องกีฬาไทย",MONOMAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://footballsod.live
@@ -1061,11 +1056,7 @@ https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Moo.th" group-title="ช่องกีฬาไทย" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png", Hi Sport
 http://49.0.64.96:8007/HiSports
-
-
-########################################
 	   Sports One
-########################################
 #EXTINF:-1 tvg-id="ACC.us" group-title="Sports One" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/accdn.png", ACC Digital Network
 https://raycomsports-accdigitalnetwork-xumo.amagi.tv/ingress/linear/amg01258-raycomsports-accdigitalnetwork-xumo/playlist.m3u8
 #EXTINF:-1 tvg-id="Motorsport.eu" group-title="Sports One" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/motosporttv.png", Motorsport tv
@@ -1392,10 +1383,7 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-============================================================================================================================================================
-// 09. Sports TV
-============================================================================================================================================================
+09. Sports TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV.png" group-title="09. Sports TV",001. SPOTV1
 https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV2.png" group-title="09. Sports TV",002. SPOTV2
@@ -1623,10 +1611,7 @@ https://wahyu1ptv.pages.dev/Combate-HD.m3u8
 https://wahyu1ptv.pages.dev/UFCFightPass-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NBA.png" group-title="09. Sports TV",114. NBA
 https://wahyu1ptv.pages.dev/NBATV-HD.m3u8
-
-
 มวยปล้ำ
-
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่อง มวยปล้ำ",WWE
 #EXTVLCOPT:http-referrer=GitHub
 https://github.com/BONDdata/m3u8/raw/refs/heads/main/WWE.m3u8
@@ -1644,21 +1629,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526
 #EXTINF:-1 tvg-id="" tvg-name="WOW Women of Wrestling" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71j6phEubAHItgQeekMYhylowQZNsBjQOF_fSwOKY7AnCQLihHhr5bJk&s=10" group-title="ช่อง มวยปล้ำ",WOW Women of Wrestling
 #EXTVLCOPT:http-referrer=PlutoTV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b66b9e14a2bb000872f606/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-
-
-
-########################################
 		หนังใหม่-2025
-########################################
-
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
-#EXTINF:-1  group-title="หนัง 2025" tvg-logo="",
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/06/F1-The-Movie-2025-F1-เดอะ-มูฟวี่-300x450.png",F1 The Movie (2025) F1 เดอะ มูฟวี่
 https://main.24playerhd.com/newplaylist/f104349c0ec457ab4c3749fc/f104349c0ec457ab4c3749fc.m3u8
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/08/Gold-Rush-Gang-2025-เขาชุมทอง-คะนองชุมโจร-300x450.png",Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร
