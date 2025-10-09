@@ -1062,6 +1062,41 @@ https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 #EXTINF:-1 tvg-id="Moo.th" group-title="ช่องกีฬาไทย" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png", Hi Sport
 http://49.0.64.96:8007/HiSports
 
+#####กีฬา######
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="กีฬา",Hub Premier 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="กีฬา",HUB PREMIER 2
+http://trendystream.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=1903776&extension=ts
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="กีฬา",Hub Premier 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="กีฬา",Hub Premier 2 4K
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112230
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-3.png" group-title="กีฬา",Hub Premier 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/hub-4.png" group-title="กีฬา",Hub Premier 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-5.png" group-title="กีฬา",Hub Premier 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2dzMGa.png" group-title="กีฬา",Now HK Premier Sports 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yVCWN1c.png" group-title="กีฬา",Now HK Premier Sports 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxakZgk.png" group-title="กีฬา",Now HK Premier Sports 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evqQoh9.png" group-title="กีฬา",Now HK Premier Sports 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAsPUx2.png" group-title="กีฬา",Now HK Premier Sports 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2GQzb9.png" group-title="กีฬา",Now HK Premier Sports 6
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0GgEQR.png" group-title="กีฬา",Now Sports 1 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1R5HQUJ.png" group-title="กีฬา",Now Sports 2 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118745
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgo9uwH.png" group-title="กีฬา",Now Sports 3 HK
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118744
+
 
 ########################################
 	   Sports One
@@ -1895,5 +1930,6 @@ https://main.24playerhd.com/newplaylist/ac8e733d655c29689db4fdea/ac8e733d655c296
 https://main.24playerhd.com/newplaylist/e75df0cff84e972e89a6e50d/e75df0cff84e972e89a6e50d.m3u8
 #EXTINF:-1  group-title="หนัง 2025" tvg-logo="https://www.24hd-movie.com/wp-content/uploads/2025/01/Back-in-Action-2025-สายลับกลับมาลุย-187x269.png",Back in Action (2025) สายลับกลับมาลุย
 https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153ae887f095f.m3u8
+
 
 
